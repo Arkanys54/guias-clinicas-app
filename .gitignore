@@ -45,3 +45,6 @@ app-example
 # Native (managed workflow — EAS los regenera con prebuild)
 /android
 /ios
+
+# Firebase (config de cliente — no versionar)
+google-services.json
